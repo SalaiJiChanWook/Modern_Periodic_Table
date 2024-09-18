@@ -1,0 +1,3 @@
+C:/Users/uchia/Desktop/C++/modern periodic table using c/cmake-build-debug/CMakeFiles/modern_periodic_table_using_c.dir
+C:/Users/uchia/Desktop/C++/modern periodic table using c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uchia/Desktop/C++/modern periodic table using c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
